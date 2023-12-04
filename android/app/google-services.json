@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "401990580888",
+    "project_id": "ardemo-f88b2",
+    "storage_bucket": "ardemo-f88b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401990580888:android:9bc4dfc8d49f84d0646eed",
+        "android_client_info": {
+          "package_name": "com.example.ardemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbmUv8ePlRKz4JjRBh5Cpj0_r2nKnxuVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
